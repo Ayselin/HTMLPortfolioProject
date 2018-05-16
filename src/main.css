@@ -1,0 +1,23 @@
+.content-wrapper {
+  line-height: 1.4;
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 30px 25px;
+}
+.header {
+  align-items: center;
+  text-align: center;
+  position: relative;
+  padding: 0 20px;
+  background-color: lightgreen;
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  border-top: 4px, solid #e91e63;
+  display: flex;
+  flex-direction:column;
+  height: 40vh;
+  justify-content: center;
+  min-height: 250px;
+  
+}
